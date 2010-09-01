@@ -13,6 +13,7 @@ class BlogApplication extends Application
             ),
             '/:class/:method' => array(
                 '_namespace' => 'BlogApplication\Controller',
+                test;
             ),
             '/' => array(
                 '_namespace' => 'BlogApplication\Controller',
